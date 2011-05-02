@@ -1887,9 +1887,9 @@ static struct msm_acpu_clock_platform_data spade_clock_data = {
 };
 
 static unsigned spade_perf_acpu_table[] = {
-	245000000,
+	230400000,
 	768000000,
-	1024000000,
+	1075200000,
 };
 
 static struct perflock_platform_data spade_perflock_data = {
